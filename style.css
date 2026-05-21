@@ -1,18 +1,13 @@
 @charset "utf-8";
 body{
-	background-color: cadetblue
-}
-img {
-	width:
-		height
-	border:
+	background-color:cadetblue
 }
 
-h2 {
+h1 {
 	font-family: Baskerville, "Palatino Linotype", Palatino, "Century Schoolbook L", "Times New Roman", "serif";
 	font-style: oblique;
 	color: burlywood}
-	ul {
+ul {
   list-style-type: none;
   margin: 0;
   padding: 0;
@@ -26,9 +21,8 @@ li a {
   padding: 8px 16px;
   text-decoration: none;
 }
-
-
 li a:hover {
   background-color: #555555;
   color: white;
 }
+	
